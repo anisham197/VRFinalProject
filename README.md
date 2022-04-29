@@ -10,7 +10,11 @@
 - Serve up restaurant orders in time!
 
 Level 0: Serve up donuts and muffins. 
-Level 1: Serve up donuts and muffins. Serve up hotdogs by combining bread and sausage on the board. Serve up omelettes by combining egg and cheese in the pan. 
+
+Level 1: 
+- Serve up donuts and muffins. 
+- Serve up hotdogs by combining bread and sausage on the board. 
+- Serve up omelettes by combining egg and cheese in the pan. 
 
 Movements
 -------
