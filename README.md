@@ -1,6 +1,9 @@
 ﻿# VR Final Project - Order Up
  
-**Demo Video** - TBA
+**Demo Video**
+- Level 0 - https://www.youtube.com/watch?v=O7UZ6NLj-eA
+- Level 1 Pt. 1 - https://youtu.be/dW-NJgzjGb0
+- Level 1 Pt. 2 - https://youtu.be/ykWKXgPr4oM
 
 **Team Members**
 - Anisha Mascarenhas
