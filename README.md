@@ -1,6 +1,6 @@
 ﻿# VR Final Project - Order Up
  
-**YouTube Video** - TBA
+**Demo Video** - TBA
 
 **Team Members**
 - Anisha Mascarenhas
@@ -9,10 +9,13 @@
 ## Objective
 - Serve up restaurant orders in time!
 
+Level 0: Serve up donuts and muffins. 
+Level 1: Serve up donuts and muffins. Serve up hotdogs by combining bread and sausage on the board. Serve up omelettes by combining egg and cheese in the pan. 
+
 Movements
 -------
-1. **Teleportation: _Use the left grip._** Can teleport to designated teleport areas (white circles)
-2. **Grabbing objects: _Use the right grip._** Point to an object, the raycast will turn white if an object is grabbable. Press and hold the right grip to grab an object. You will get a small haptic feedback i.e. the right controller will vibrate when you grab an object. Release the grip to drop the object. 
+1. **Teleportation: _Use the left grip._** Can teleport to designated teleport areas (white circles) by pointing at them and pressing the left grip.
+2. **Grabbing objects: _Use the right grip._** Point to an object, the raycast will turn green if an object is grabbable. Press and hold the right grip to grab an object. You will get a small haptic feedback i.e. the right controller will vibrate when you grab an object. Release the grip to drop the object. 
 
 Requirements/Dependencies
 -----
